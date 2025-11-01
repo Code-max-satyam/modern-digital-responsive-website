@@ -1,6 +1,6 @@
-# 🌐 Digital Agency Website – React + Tailwind + Framer Motion
+# 🌐 modern-digital-responsive-website – React + Tailwind + Framer Motion
 
-In this project, we build a **modern digital agency website** with stunning hover effects and smooth **Framer Motion** animations.  
+In this project, we build a **modern-digital-responsive-website** with stunning hover effects and smooth **Framer Motion** animations.  
 This responsive website is built using **React JS** and **Tailwind CSS**, featuring elegant UI transitions and a functional contact form that lets customers send messages directly to the admin's email using **Web3Forms**.
 
 ---
