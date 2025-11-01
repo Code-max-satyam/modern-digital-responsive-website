@@ -19,7 +19,7 @@ const Footer = ({ theme }) => {
                     transition={{ duration: 0.6, delay: 0.2 }}
                     viewport={{ once: true }}
                     className='space-y-5 text-sm text-gray-700 dark:text-gray-400'>
-                    <img src={theme === 'dark' ? assets.logo_dark : assets.logo} className='w-32 sm:w-44' alt="" />
+                    <img src={theme === 'dark' ? assets.logosdark : assets.logos} className='w-32 sm:w-44' alt="" />
                     <p className='max-w-md'>From strategy to execution, we craft digital solutions that move your business forward.</p>
 
                     <ul className='flex gap-8'>

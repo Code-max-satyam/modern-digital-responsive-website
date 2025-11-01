@@ -29,6 +29,8 @@ import google_logo from './google_logo.svg'
 import menu_icon_dark from './menu_icon_dark.svg'
 import sun_icon from './sun_icon.svg'
 import moon_icon from './moon_icon.svg'
+import logos from './logos.png'
+import logosdark from './logosdark.png'
 
 
 export const company_logos = [
@@ -65,7 +67,9 @@ const assets = {
   logo_dark,
   menu_icon_dark,
   sun_icon,
-  moon_icon
+  moon_icon,
+  logos,
+  logosdark,
 }
 
 export default assets
