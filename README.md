@@ -50,6 +50,10 @@ tailwind.config.js # Tailwind setup
 
 ---
 
+## Live Demo
+
+https://modern-digital-responsive-website.vercel.app/
+
 📸 Preview
 
 <img width="1907" height="940" alt="Screenshot 2025-11-01 142820" src="https://github.com/user-attachments/assets/d9f2e7a4-defd-4878-b944-0e819d17130e" />
